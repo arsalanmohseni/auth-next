@@ -26,4 +26,4 @@ bun i
 ```bash
 npm run dev
 ```
-4. Go to [http://localhost:3000/auth] to see the login
+4. Go to [http://localhost:3000/auth](http://localhost:3000/auth) to see the login
