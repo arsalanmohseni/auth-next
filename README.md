@@ -1,6 +1,6 @@
 # auth-next
 
-Hi, here is a app that uses auth js for auth
+Hi, here is a app that uses clerk for auth
 
 if you don't know to to create auth in next js apps, read the source code
 
